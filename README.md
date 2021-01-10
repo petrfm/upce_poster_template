@@ -16,4 +16,4 @@ Nainstalujte si [TexStudio](https://www.texstudio.org/), stáhněte soubory zde 
 
 ## Ukázka
 
-upa_poster.png
+!upa_poster.png
