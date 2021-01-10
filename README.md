@@ -6,7 +6,7 @@
 
 ## Jak začít?
 
-Nainstalujte si [TexStudio](https://www.texstudio.org/), stáhněte a otevřete soubory zde uložené a můžete začít editovat. V _TexStudiu_ lze z kódu snadno zkompilovat _.pdf_ soubor.
+Nainstalujte si [TexStudio](https://www.texstudio.org/), stáhněte soubory zde uložené, otevřte ten s koncovkou _.tex_ a můžete začít editovat. V _TexStudiu_ lze z kódu snadno zkompilovat _.pdf_ soubor.
 
 ## Poděkování
 
