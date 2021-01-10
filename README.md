@@ -10,4 +10,4 @@ Nainstalujte si [TexStudio](https://www.texstudio.org/), stáhněte a otevřete 
 
 ## Poděkování
 
-Šablona je založena na originále od P. Dreuwa a T. Deselaerse, který je dostupný na https://github.com/deselaers/latex-beamerposter a poděkování za spolupráci patří rovněž P. Filipovi, u nějž najdete jinou verzi šablony UPa využitelnou jak pro postery, tak pro prezentace: https://github.com/petrfilip/upce-beamer-template
+Šablona je založena na originále od P. Dreuwa a T. Deselaerse, který je dostupný na https://github.com/deselaers/latex-beamerposter. Poděkování za spolupráci patří rovněž P. Filipovi, u nějž najdete jinou verzi šablony UPa využitelnou jak pro postery, tak pro prezentace: https://github.com/petrfilip/upce-beamer-template
