@@ -2,7 +2,7 @@
 
 ## Proč použít tuto šablonu?
 
-Šablona obsahuje loga a barvy všech fakult. Pro změnu stačí nahradit zkratku fakulty v příkazu **\newcommand{\faculty}{_DFJP_}** zkratkou jiné (z výběru: _DFJP_, _FEI_, _FCHT_, _FES_, _FR_, _FZS_, _FF_ a _UPA_).
+Šablona obsahuje loga a barvy všech fakult. Pro změnu stačí nahradit zkratku fakulty v příkazu **\newcommand{\faculty}{_DFJP_}** zkratkou jiné (z výběru: _DFJP_, _FEI_, _FCHT_, _FES_, _FR_, _FZS_, _FF_ a _UPA_).
 
 ## Jak začít?
 
